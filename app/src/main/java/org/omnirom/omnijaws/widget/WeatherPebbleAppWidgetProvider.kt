@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: crDroid Android Project
+ * SPDX-FileCopyrightText: Lineage OS Special Project (LOSP)
  * SPDX-License-Identifier: Apache-2.0
  */
 package org.omnirom.omnijaws.widget
@@ -19,7 +19,7 @@ import android.widget.RemoteViews
 
 import androidx.preference.PreferenceManager
 
-import com.android.internal.util.crdroid.OmniJawsClient
+import com.android.internal.util.losp.OmniJawsClient
 
 import org.omnirom.omnijaws.Config
 import org.omnirom.omnijaws.R
